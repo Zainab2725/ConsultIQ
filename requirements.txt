@@ -1,3 +1,4 @@
 streamlit>=1.50,<2
 crewai==1.15.23
 crewai-tools==1.15.23
+crewai[google-genai]
