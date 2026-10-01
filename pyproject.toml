@@ -1,0 +1,5 @@
+[project]
+name = "consultiq-business-consulting-ai"
+version = "1.0.0"
+description = "Multi-agent business consulting team using CrewAI, Groq GPT-OSS 120B, and Streamlit."
+requires-python = ">=3.12,<3.14"
