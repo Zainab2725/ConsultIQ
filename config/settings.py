@@ -1,4 +1,3 @@
-```python
 import os
 from dataclasses import dataclass
 
@@ -43,4 +42,3 @@ class Settings:
 
 
 settings = Settings()
-```
