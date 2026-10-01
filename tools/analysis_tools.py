@@ -1,4 +1,4 @@
-```python
+
 from crewai.tools import tool
 
 
@@ -35,4 +35,4 @@ def calculator(expression: str) -> str:
 
 def calculator_tool():
     return calculator
-```
+
